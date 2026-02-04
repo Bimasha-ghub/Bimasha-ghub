@@ -1,7 +1,7 @@
 # Hi there, I'm Bimasha! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/Bimasha-ghub?label=Follow&style=social)](https://github.com/Bimasha-ghub)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bimasha-nethmika-141592323)
 
 ## 🚀 About Me
 
@@ -35,10 +35,8 @@ I'm a passionate developer who loves building innovative solutions and learning 
 
 ## 📫 How to Reach Me
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your Name](https://www.linkedin.com/in/yourprofile)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- 📧 Email: bimashanethmika22@gmail.com
+- 💼 LinkedIn: [Bimasha Nethmika](https://www.linkedin.com/in/bimasha-nethmika-141592323)
 
 ## 🏆 GitHub Trophies
 
